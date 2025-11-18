@@ -33,10 +33,10 @@ The application provides the following features:
 
 | Screenshot | Description |  
 |------------|-------------|  
-| <p align="center"><img src="screenshots/mainSc.jpeg" width="250"/></p> | The **Main Screen** displays the current time and a button to set an alarm. |
-| <p align="center"><img src="screenshots/Alarmset.jpeg" width="250"/></p> | After selecting time, a **Toast message** appears and the **Cancel Alarm** button becomes visible. |
-| <p align="center"><img src="screenshots/notification .jpeg" width="250"/></p> | When the alarm triggers, the **BroadcastReceiver** activates and the **AlarmService** starts playing the ringtone. |
-| <p align="center"><img src="screenshots/alarmstop.jpeg" width="250"/></p> | After pressing stop/cancel, the alarm sound is stopped and the service ends successfully. |
+| <p align="center"><img src="Screenshot 2025-11-19 033654" width="250"/></p> | The **Main Screen** displays the current time and a button to set an alarm. |
+| <p align="center"><img src="Screenshot 2025-11-19 033632" width="250"/></p> | After selecting time, a **Toast message** appears and the **Cancel Alarm** button becomes visible. |
+| <p align="center"><img src="Screenshot 2025-11-19 033616" width="250"/></p> | When the alarm triggers, the **BroadcastReceiver** activates and the **AlarmService** starts playing the ringtone. |
+| <p align="center"><img src="Screenshot 2025-11-19 033602" width="250"/></p> | After pressing stop/cancel, the alarm sound is stopped and the service ends successfully. |
 
 ---
 
